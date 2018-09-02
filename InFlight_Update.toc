@@ -1,0 +1,10 @@
+## Interface: 60200
+## Title: InFlight Update
+## Notes: Goranaws' Personal Inflight Update Module
+## Author: Goranaws
+## SavedVariables: IFU_Data, IFU_Conversion, IFU_Extra
+## Version: 3.5
+## Dependencies: InFlight
+
+data.lua
+update.lua
